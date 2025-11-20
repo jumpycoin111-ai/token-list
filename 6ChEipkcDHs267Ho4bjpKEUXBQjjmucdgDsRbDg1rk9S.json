@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "6ChEipkcDHs267Ho4bjpKEUXBQjjmucdgDsRbDg1rk9S",
+  "symbol": "JMPY",
+  "name": "JumpyCoin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/jumpycoin111-ai/jumpy-assets/main/assets/mainnet/6ChEipkcDHs267Ho4bjpKEUXBQjjmucdgDsRbDg1rk9S/logo.png",
+  "tags": [],
+  "extensions": {
+    "website": "https://x.com/jumpycoin"
+  }
+}
